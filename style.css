@@ -4,10 +4,10 @@
     font-family: 'Work Sans', sans-serif;
 }
 /*---------------------- Header-section-start------------ */
-.header{
+.header {
     background-color: rgba(255, 144, 14, 0.1);
-    width: 1700px;
-    height: 1300px;
+   
+    height: 1402px;
     margin: auto;
 }
 .container{
