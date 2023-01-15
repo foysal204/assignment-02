@@ -1,0 +1,8 @@
+@media  screen and (max-width:576px) {
+    .header{
+          width: 567px;
+    }
+    .nav-bar{
+        flex-direction: column;
+    }
+}
